@@ -1,2 +1,2 @@
-# tabelas_dinamicas_excel
-Projeto aula tabelas dinâmicas Bootcamp DIO
+# Tabelas Dinâmicas com Excel
+Projeto da aula sobre tabelas dinâmicas - Bootcamp DIO.
